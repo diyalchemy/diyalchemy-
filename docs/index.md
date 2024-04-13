@@ -2,4 +2,4 @@
 
 Bienvenue sur le site `DIY alchemy`
 
-[test firmware](https://your_github_user_name.github.io/firmware/test_1k.bin)
+[test firmware](https://diyalchemy.github.io/firmware/test_1k.bin)
