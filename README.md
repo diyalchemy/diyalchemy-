@@ -1,2 +1,2 @@
-# diyalchemy-
+# diyalchemy.github.io
 DIY alchemy
